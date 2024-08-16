@@ -1,0 +1,11 @@
+C:\Users\AMD\source\repos\POS_dev\POS_dev\bin\Debug\POS_dev.exe.config
+C:\Users\AMD\source\repos\POS_dev\POS_dev\bin\Debug\POS_dev.exe
+C:\Users\AMD\source\repos\POS_dev\POS_dev\bin\Debug\POS_dev.pdb
+C:\Users\AMD\source\repos\POS_dev\POS_dev\obj\Debug\POS_dev.csproj.AssemblyReference.cache
+C:\Users\AMD\source\repos\POS_dev\POS_dev\obj\Debug\POS_dev.mainPOS.resources
+C:\Users\AMD\source\repos\POS_dev\POS_dev\obj\Debug\POS_dev.Properties.Resources.resources
+C:\Users\AMD\source\repos\POS_dev\POS_dev\obj\Debug\POS_dev.csproj.GenerateResource.cache
+C:\Users\AMD\source\repos\POS_dev\POS_dev\obj\Debug\POS_dev.csproj.CoreCompileInputs.cache
+C:\Users\AMD\source\repos\POS_dev\POS_dev\obj\Debug\POS_dev.exe
+C:\Users\AMD\source\repos\POS_dev\POS_dev\obj\Debug\POS_dev.pdb
+C:\Users\AMD\source\repos\POS_dev\POS_dev\obj\Debug\POS_dev.frmBrand.resources
